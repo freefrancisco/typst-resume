@@ -22,7 +22,7 @@ Software Engineer with 15+ years of experience. Proficient in Haskell and Python
   [
     - Developed financial actuarial models for a tontine, a new retirement product.
     - Developed quantitative finance forecasts and simulations in Haskell for robo-actuary software.
-    - Developed using Haskell and nix, prototyped with Julia, Spreadsheets, and Phython.
+    - Skills: Haskell, Functional Programming, Quantitative Finance, Forecasting, Simulations, Statistics, Nix, Julia, Python, Spreadhsheets.
   ]
 )
 #exp(
@@ -31,9 +31,9 @@ Software Engineer with 15+ years of experience. Proficient in Haskell and Python
   "Miami Beach, FL",
   "Feb 2023 – Nov 2023",
   [
-    - Generative AI with LLMs, chatGPT, GPT4, the OpenAI API, and the DeepLearning.AI classes.
+    - Generative AI with LLMs, chatGPT, GPT-4, the OpenAI API, and the DeepLearning.AI classes.
     - Natural Language Processing Coursera specialization.
-    - Prototyping with Python, Julia, and Haskell.
+    - Skills: Generative AI, LLMs, NLP, RAG, OpenAI, Vector Databases, Python, Julia, Haskell, Javascript.
   ]
 )
 #exp(
@@ -43,8 +43,8 @@ Software Engineer with 15+ years of experience. Proficient in Haskell and Python
   "Jan 2022 – Jan 2023",
   [
     - Main developer and technical co-founder for web3 artificial intelligence startup to aggregate, categorize, and summarize information from public sources for NFT/crypto investors using GPT-3.
-    - Developed application in Haskell using IHP and prototypes using Julia.
     - Managed team of front end Javascript developers. Took application from idea to production.
+    - Skills: Haskell, Functional Programming, IHP, LLMs, OpenAI, Web3, Nix, Javascript, Typescript, Julia, Python, Software Architecture, Leadership, Engineering Management, Entrereneurship.
   ]
 )
 #exp(
@@ -57,7 +57,7 @@ Software Engineer with 15+ years of experience. Proficient in Haskell and Python
     - Machine learning. Developed models for synthetic data product, mentored coworkers, led internal machine learning reading group, led team in reinforcement learning competition.
     - Internal entrepreneurship. Part of team that took synthetic data product from idea to production.
     - Five patent applications around agent based models and synthetic data, main author in two of them.
-    - Developed in Haskell and Python.
+    - Skills: Haskell, Functional Programming, Python, Simulations, Agent Based Models, Probabilistic Graphical Models, Synthetic Data, Machine Learning, Reinforcement Learning, Mentoring, Leadership.
   ]
 )
 #exp(
@@ -69,6 +69,7 @@ Software Engineer with 15+ years of experience. Proficient in Haskell and Python
     - Deep Learning with Andrew Ng's classes, Coursera certification, and book by Goodfellow et al.
     - Deep Reinforcement Learning with class by Sergey Levine, and book by Sutton and Barto.
     - Haskell with book by Allen and Moronuki.
+    - Skills: Haskell, Deep Learning, Reinforcement Learning, Linear Algebra, Statistics, Python.
   ]
 )
 
@@ -78,7 +79,8 @@ Software Engineer with 15+ years of experience. Proficient in Haskell and Python
   "San Francisco, CA",
   "2016 – 2017",
   [
-   - Designed and developed knowledge database for precision medicine cancer treatments. Developed in Elixir, Python, and Ruby using the Neo4j graph database.
+   - Designed and developed knowledge database for precision medicine cancer treatments.
+   - Skills: Elixir, Python, Ruby, Neo4j, Graph Databases, Knowledge Engineering.
   ]
 )
 #exp(
@@ -87,7 +89,8 @@ Software Engineer with 15+ years of experience. Proficient in Haskell and Python
   "San Francisco, CA",
   "2015 – 2016",
   [
-    - Main developer and maintainer of machine learning application for risk scoring and fraud detection. Developed in Python and Ruby.
+    - Main developer and maintainer of machine learning application for risk scoring and fraud detection.
+    - Skills: Machine Learning, Fraud Detection, Python, Ruby, Scikit-learn, Numpy, Pandas, Flask.
   ]
 )
 #exp(
