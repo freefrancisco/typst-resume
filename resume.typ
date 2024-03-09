@@ -11,7 +11,7 @@
 )
 
 = Brief
-Software Engineer with 15+ years of experience. Proficient in Haskell and Python, interested in Julia,  but comfortable with most popular languages. Currently excited about LLMs and generative AI. Best at the intersection between math and software. Looking for remote work on mathematical applications such as AI, NLP, Machine Learning, Data Science, Quantitative Finance, Bioinformatics, Statistics, etc.
+Software Engineer with 15+ years of experience. Proficient in Haskell and Python, interested in Julia,  but comfortable with most popular languages. Currently excited about LLMs and generative AI. Best at the intersection between math and software. Looking to work remotely on mathematical applications such as AI, NLP, Machine Learning, Data Science, Quantitative Finance, Bioinformatics, Statistics, etc.
 
 = Experience
 #exp(
@@ -22,7 +22,7 @@ Software Engineer with 15+ years of experience. Proficient in Haskell and Python
   [
     - Developed financial actuarial models for a tontine, a new retirement product.
     - Developed quantitative finance forecasts and simulations in Haskell for robo-actuary software.
-    - Skills: Haskell, Functional Programming, Quantitative Finance, Forecasting, Simulations, Statistics, Nix, Julia, Python, Spreadhsheets.
+    - Skills: Haskell, Functional Programming, Quantitative Finance, Forecasting, Simulations, Statistics, Nix, Julia, Python, Spreadsheets.
   ]
 )
 #exp(
@@ -53,7 +53,7 @@ Software Engineer with 15+ years of experience. Proficient in Haskell and Python
   "San Francisco, CA",
   "Apr 2018 – Jun 2021",
   [
-    - Functional programming in Haskell. Wrote simulations/agent based models to generate synthetic data that matches real distributions. Evangelized Haskell internally, mentored other developers in the use of Haskell and functional programming techniques.
+    - Functional programming in Haskell. Wrote simulations/agent based models to generate synthetic data that matches real distributions. Evangelized Haskell internally, mentored other developers on the use of Haskell and functional programming techniques.
     - Machine learning. Developed models for synthetic data product, mentored coworkers, led internal machine learning reading group, led team in reinforcement learning competition.
     - Internal entrepreneurship. Part of team that took synthetic data product from idea to production.
     - Five patent applications around agent based models and synthetic data, main author in two of them.
@@ -172,7 +172,7 @@ Software Engineer with 15+ years of experience. Proficient in Haskell and Python
   "Denver, CO",
   "1999 - 2000",
   [
-    Developed ad and content personalization technology for publishers leading a team of three people. Authored a patent application on the personalization technology.
+    - Developed ad and content personalization technology for publishers leading a team of three people. Authored a patent application on the personalization technology.
   ]
 )
 #exp(
@@ -181,7 +181,7 @@ Software Engineer with 15+ years of experience. Proficient in Haskell and Python
   "Falls Church, VA",
   "1997 - 1999",
   [
-    Associate program for recent college graduates included a 6 week bootcamp where where we studied SQL, Data Warehousing and Decision Support Systems in depth. Then we had a rotation through different areas of the company. I worked in marketing, product management, and web development.
+    - Associate program for recent college graduates included a 6 week bootcamp where we studied SQL, Data Warehousing and Decision Support Systems in depth, and then we had a rotation through different areas of the company. I worked in marketing, product management, and web development.
   ]
 )
 #exp(
@@ -202,18 +202,20 @@ Software Engineer with 15+ years of experience. Proficient in Haskell and Python
   "Tokyo, Japan",
   "Summer 1996",
   [
+    - Wrote and presented report on Internet commerce, business opportunities created by the Internet, uses of the Internet in traditional businesses, and impact of the Internet on the global economy.
+    - Experienced Japanese culture, customs, language, and business practices.
   ]
 )
 
 = Education
 #exp(
-  "California Institue Of Technology",
+  "California Institute Of Technology",
   "B.S. Double Major: (1) Engineering & Applied Science, (2) Economics",
   "Pasadena, California",
   "1992 – 1996",
   [
     - Double major with emphasis in physics, applied math, computer science, and quantitative finance.
-    - Coursework included classical, statistical, and quantum mechanics, electromagnetism, relativity, thermo- dynamics, physics research, chemistry, biology, computer science, circuit design, linear systems analysis, signal processing, vector and multivariate calculus, probability, statistics, linear and abstract algebra, differential equations, real and complex analysis, microeconomics, macroeconomics, econometrics, political science, cooperative and non-cooperative game theory, corporate finance, accounting, option pricing theory, stochastic calculus, investment analysis, and laboratory work in electrical, mechanical, computer, and software engineering.
+    - Coursework included classical, statistical, and quantum mechanics, electromagnetism, relativity, thermodynamics, physics research, chemistry, biology, computer science, circuit design, linear systems analysis, signal processing, vector and multivariate calculus, probability, statistics, linear and abstract algebra, differential equations, real and complex analysis, microeconomics, macroeconomics, econometrics, political science, cooperative and non-cooperative game theory, corporate finance, accounting, option pricing theory, stochastic calculus, investment analysis, and laboratory work in electrical, mechanical, computer, and software engineering.
     - Research work included developing molecular dynamics simulations in C for the physics department, and genetic algorithms in C++ for internship through the economics department.
   ]
 )
@@ -224,12 +226,12 @@ Software Engineer with 15+ years of experience. Proficient in Haskell and Python
   "2000 – 2002",
   [
     - Computer science program focusing on practical applications of artificial intelligence, machine learning, robotics, and automation in general.
-    - Coursework included Bayesian networks, neural networks, genetic algorithms, simulated annealing, reinforcement learning, search and heuristics, logical inference systems, fuzzy logic, autonomous agents, decision trees, multi agent systems, robotics, knowledge engineering, expert systems, rule based systems, learning classifier systems, data mining, algorithm analysis, and statistics.
+    - Coursework included Bayesian networks, neural networks, genetic algorithms, simulated annealing, reinforcement learning, search and heuristics, logical inference systems, fuzzy logic, autonomous agents, decision trees, multi-agent systems, robotics, knowledge engineering, expert systems, rule-based systems, learning classifier systems, data mining, algorithm analysis, and statistics.
     - Published paper: “Biometrics and Data Mining: Comparison of Data Mining-Based Keystroke Dynamics Methods for Identity Verification”, Springer-Verlag Heidelberg, ISSN: 0302-9743, Volume 2313 / 2002, Book Title: MICAI 2002: Advances in Artificial Intelligence : Second Mexican International Conference on Artificial Intelligence Merida, Yucatan, Mexico, April 22-26, 2002. Proceedings
   ]
 )
 #exp(
-  "CU Denver",
+  "University Of Colorado Denver",
   "M.S. Applied Math Classes",
   "Denver, CO",
   "2004 – 2010",
