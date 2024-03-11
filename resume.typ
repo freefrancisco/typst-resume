@@ -79,8 +79,8 @@ Software Engineer with 15+ years of experience. Proficient in Haskell and Python
   "San Francisco, CA",
   "2016 – 2017",
   [
-   - Designed and developed knowledge database for precision medicine cancer treatments.
-   - Skills: Elixir, Python, Ruby, Neo4j, Graph Databases, Knowledge Engineering.
+   - Designed and developed precision medicine knowledge graph database to recommend cancer treatments based on cancer cells genotype.
+   - Skills: Elixir, Phoenix, Neo4j, Python, Ruby, Graph Databases, Knowledge Engineering, Biology.
   ]
 )
 #exp(
