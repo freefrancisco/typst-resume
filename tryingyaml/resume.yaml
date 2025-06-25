@@ -1,0 +1,283 @@
+name: Francisco Gutierrez
+title: Software Engineer
+location: Miami Beach, FL
+contacts:
+  email: freefrancisco@gmail.com
+  github: https://github.com/freefrancisco
+  linkedin: https://www.linkedin.com/in/francisco/
+
+summary: >
+  Versatile Software Engineer with over 15 years of experience, specializing in Haskell, Python,
+  functional programming, AI, and machine learning. Proven expertise in building backend systems,
+  algorithmic solutions, and AI-driven applications for leading Silicon Valley tech companies.
+  Adept at applying machine learning, statistics, and mathematical models to solve complex problems.
+  Currently expanding knowledge in quantitative finance and options trading, with a focus on leveraging
+  AI for financial applications. Experienced in both startups and larger organizations, with a track
+  record of quickly adapting to new challenges and technologies.
+
+skills:
+  languages:
+    - Haskell
+    - Python
+    - SQL
+    - Julia
+    - R
+    - JavaScript
+    - TypeScript
+    - Ruby
+    - Unix Shell
+  databases:
+    - Postgres
+    - Neo4j
+    - MongoDB
+    - Redis
+    - MySQL
+    - Sqlite
+  haskell_tools:
+    - Nix
+    - Ghcid
+    - IHP
+    - Servant
+    - Aeson
+    - Lens
+    - MTL
+    - HSpec
+    - QuickCheck
+    - Scotty
+  python_tools:
+    - Numpy
+    - Pandas
+    - Scikit-learn
+    - TensorFlow
+    - Torch
+    - Keras
+    - Flask
+    - Jupyter Notebooks
+  technologies:
+    - Machine Learning
+    - NLP
+    - LLMs
+    - Functional Programming
+    - Web Development
+
+experience:
+  - company: Tontine Trust
+    role: Haskell Software Engineer / Quantitative Analyst
+    location: Miami Beach, FL (Remote)
+    start_date: Nov 2023
+    end_date: Apr 2024
+    bullets:
+      - Developed financial actuarial models for a tontine, a new retirement product.
+      - Developed quantitative finance forecasts and simulations in Haskell for robo-actuary software.
+      - Skills: Haskell, Functional Programming, Quantitative Finance, Forecasting, Simulations, Statistics, Nix, Julia, Python, Spreadsheets.
+
+  - company: Independent Study
+    role: AI Research Engineer
+    location: Miami Beach, FL
+    start_date: Feb 2023
+    end_date: Nov 2023
+    bullets:
+      - Studied generative AI and LLMs using GPT-4 and OpenAI API.
+      - Completed NLP specialization from DeepLearning.AI.
+      - Skills: Generative AI, LLMs, NLP, RAG, Python, Haskell, Julia, Javascript, OpenAI API.
+
+  - company: NFTYEA
+    role: CTO / Co-founder
+    location: Miami Beach, FL
+    start_date: Jan 2022
+    end_date: Jan 2023
+    bullets:
+      - Built GPT-3-based crypto news summarizer for investors.
+      - Managed team of frontend devs, took app from idea to production.
+      - Skills: Haskell, IHP, JavaScript, Python, Julia, OpenAI, Web3.
+
+  - company: Capital One
+    role: Master Software Engineer
+    location: San Francisco, CA (Remote)
+    start_date: 2018
+    end_date: 2021
+    bullets:
+      - Built Haskell simulation engine for synthetic data generation.
+      - Designed agent-based models using probabilistic monads and custom simulation monad.
+      - Mentored Haskell developers, wrote static analysis tools, and helped build API infrastructure.
+      - Skills: Haskell, Functional Programming, Python, AWS, Agent-Based Models, Probabilistic Programming.
+
+  - company: Gumroad
+    role: Machine Learning Engineer
+    location: San Francisco, CA
+    start_date: 2015
+    end_date: 2016
+    bullets:
+      - Built ML pipeline for risk scoring and fraud detection.
+      - Skills: Python, Ruby, ML, Numpy, Pandas, Scikit-learn.
+
+  - company: CollabRx
+    role: Software Architect
+    location: San Francisco, CA
+    start_date: 2016
+    end_date: 2017
+    bullets:
+      - Built a knowledge graph for cancer treatments based on genetic data.
+      - Skills: Elixir, Neo4j, Graph Theory, Biology, Bioinformatics.
+
+
+  - company: Liquid Labs (Now Gigster)
+    role: CTO / Co-founder
+    location: San Francisco, CA
+    start_date: 2013
+    end_date: 2014
+    bullets:
+      - Led rapid prototyping for startup ideas.
+      - Projects included a contact manager, WebRTC video chat, experts exchange, and a stock market game.
+
+  - company: Tapjoy
+    role: Senior Software Engineer / Data Scientist
+    location: San Francisco, CA
+    start_date: 2012
+    end_date: 2013
+    bullets:
+      - Built collaborative filtering recommendation system and an A/B testing platform.
+      - Tools used: Octave, R, Ruby.
+
+  - company: Kabam
+    role: Lead Backend Engineer
+    location: San Francisco, CA
+    start_date: 2011
+    end_date: 2012
+    bullets:
+      - Developed backend game server code for Dragons of Atlantis.
+      - Maintained and scaled backend for Dragons of Atlantis (500k DAU, 4M MAU).
+      - Skills: Ruby, Rails, Redis, MySQL.
+
+  - company: Biemedia
+    role: Senior Software Engineer
+    location: Denver, CO
+    start_date: 2009
+    end_date: 2010
+    bullets:
+      - Built systems for scraping, automation, video generation, and search in Ruby.
+
+  - company: Mercurio Marketing LLC
+    role: Owner / President / CEO
+    location: Denver, CO
+    start_date: 2008
+    end_date: 2010
+    bullets:
+      - Software development and consulting services.
+      - Management of modeling agency, production of rock en español concerts, and nightclub events.
+
+  - company: Inspekt Security
+    role: Principal Scientist
+    location: Denver, CO
+    start_date: 2007
+    end_date: 2008
+    bullets:
+      - Built statistical pattern recognition software for intrusion detection using Ruby and R.
+
+  - company: Collective Intellect
+    role: Director of Research / Cofounder
+    location: Denver, CO
+    start_date: 2005
+    end_date: 2006
+    bullets:
+      - Developed ML/NLP software to extract sentiment, detect topics, and identify influencers.
+      - Tools: Ruby, Python, R.
+
+  - company: Dante Group / WebMethods
+    role: Senior Software Engineer
+    location: Denver, CO
+    start_date: 2002
+    end_date: 2005
+    bullets:
+      - Built statistical anomaly detection and OLAP engines in Java and Python for BI monitoring.
+
+  - company: Quark
+    role: Product Manager
+    location: Denver, CO
+    start_date: 1999
+    end_date: 2000
+    bullets:
+      - Led personalization tech project with a small team. Filed a patent on the technology.
+
+  - company: MicroStrategy
+    role: Associate
+    location: Falls Church, VA
+    start_date: 1997
+    end_date: 1999
+    bullets:
+      - Completed 6-week SQL/Data Warehousing bootcamp. Rotated through marketing, PM, and web dev.
+
+  - company: First Quadrant
+    role: Equity Research Assistant
+    location: Pasadena, CA
+    start_date: "Summer 1995, 1996–1997"
+    end_date: 1999
+    bullets:
+      - Created computational finance models.
+      - Wrote genetic algorithms in C++.
+      - Skills: C++, Perl, Genetic Algorithms
+
+education:
+  - school: California Institute Of Technology
+    degree: B.S. Double Major - (1) Engineering & Applied Science, (2) Economics
+    location: Pasadena, CA
+    start_date: 1992
+    end_date: 1996
+    bullets:
+      - Emphasis in physics, applied math, computer science, and quantitative finance.
+      - Coursework included: classical/statistical/quantum mechanics, relativity, signal processing, stochastic calculus, econometrics, game theory, and more.
+      - Research: molecular dynamics in C (physics dept), genetic algorithms in C++ (econ internship).
+
+  - school: ITESM
+    degree: M.S. Computer Science, Intelligent Systems
+    location: Monterrey, NL, Mexico
+    start_date: 2000
+    end_date: 2002
+    bullets:
+      - Practical AI program with courses in Bayesian networks, RL, fuzzy logic, expert systems, etc.
+      - Published paper: “Biometrics and Data Mining…” in Springer’s MICAI 2002 proceedings.
+
+  - school: University Of Colorado Denver
+    degree: M.S. Applied Math Classes, Computational Biology Certification
+    location: Denver, CO
+    start_date: 2004
+    end_date: 2010
+    bullets:
+      - Cross-disciplinary program in applied math, computational biology, and statistics.
+      - Coursework included Bayesian statistics, graph theory, stochastic processes, info theory, and bioinformatics.
+      - Class projects built using R, Python, Octave, and Matlab.
+
+
+certifications:
+  - title: Deep Learning Specialization
+    provider: Coursera, DeepLearning.AI
+    location: Issued Apr 2018
+    period: 2017 - 2018
+    bullets:
+      - Neural Networks and Deep Learning (Sep 2017)
+      - Improving Deep Neural Nets: Hyperparameter Tuning, Regularization and Optimization (Sep 2017)
+      - Structuring Machine Learning Projects (Oct 2017)
+      - Convolutional Neural Networks (Feb 2018)
+      - Sequence Models (Apr 2018)
+
+  - title: Natural Language Processing Specialization
+    provider: Coursera, DeepLearning.AI
+    location: In Progress
+    period: 2023 - Present
+    bullets:
+      - NLP with Classification and Vector Spaces (Apr 2023)
+      - NLP with Probabilistic Models (Jul 2023)
+      - NLP with Sequence Models (In Progress)
+      - NLP with Attention Models (In Progress)
+      - Generative AI with Large Language Models (In Progress)
+
+
+interests:
+  - Trading options on stocks and futures (Tastytrade)
+  - Quantitative Finance — reading Steven Shreve’s *Stochastic Calculus for Finance*
+  - LLMs, building custom GPTs, and exploring AI technologies
+  - Bitcoin, crypto, and Decentralized Finance
+  - Learning modern web development (Deno, Fresh, iOS apps)
+  - Coding in Haskell, Python, Julia, and Typescript
+  - Lifting weights, martial arts, and fitness
+  - Learning languages — currently Chinese, Latin, Swift, and Rust
